@@ -1,4 +1,3 @@
 pip-tools
 git+https://github.com/vyperlang/titanoboa
-ipython
 black
